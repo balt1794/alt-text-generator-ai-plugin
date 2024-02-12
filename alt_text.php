@@ -3,9 +3,8 @@
 Plugin Name: Alt Text Generator AI
 Plugin URI: https://alttextgeneratorai.com
 Description: Automatically generates alt text for uploaded images.
-Version: 1.0
+Version: 1.0.0
 Author: Bryam Loaiza
-Author URI: https://alttextgeneratorai.com
 License: GPLv2
 */
 
